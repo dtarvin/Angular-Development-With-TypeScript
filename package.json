@@ -1,0 +1,25 @@
+{
+  "name": "angular-development-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "bootstrap": "^4.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtarvin/Angular-Development-With-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtarvin/Angular-Development-With-TypeScript/issues"
+  },
+  "homepage": "https://github.com/dtarvin/Angular-Development-With-TypeScript#readme"
+}
